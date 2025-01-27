@@ -6,10 +6,10 @@ public abstract class TangibleAsset extends Asset implements Thing{
 	private double weight;	
 	
 	public TangibleAsset(String name,int price ,String Color{
-    this.name =name;
-    this.price=price;
-    this.color=color;
-  }
+   		this.name =name;
+    		this.price=price;
+    		this.color=color;
+  	}
 	
 	//メソッド
 	
