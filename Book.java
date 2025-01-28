@@ -13,6 +13,6 @@ public class Book extends TangibleAsset {
 	
 	// メソッド
 	public String getIsbn() {return this.isbn;}
-	
+	public void setIsbn(String isbn){this.isbn =isbn;}
 	
 }
